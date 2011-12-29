@@ -1,0 +1,10 @@
+*~
+*.swp
+nohup.out
+tags
+vendor/bundle
+Gemfile.lock
+.bundle
+tmp/**/*
+**.orig
+doc/
