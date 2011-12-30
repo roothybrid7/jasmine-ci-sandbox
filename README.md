@@ -1,6 +1,8 @@
 # Javascript Test environment #
 
-## Preconfiguration ##
+Javascript Test environment skeleton.
+
+## Copy to project ##
 
     mkdir myproject
     git clone git://github.com/roothybrid7/jasmine-ci-sandbox.git
