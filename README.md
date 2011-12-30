@@ -21,11 +21,12 @@
     │   └── stylesheets
     └── spec
         └── javascripts
+            ├── appSpec.js
             ├── fixtures
             ├── helpers
             │   ├── jasmine-jquery-1.2.0.js
+            │   └── jasmine-sinon.js
             │   └── sinon-1.2.0.js
-            ├── jasmine-sinon.js
             └── support
                 ├── jasmine.yml
                 ├── jasmine_config.rb
