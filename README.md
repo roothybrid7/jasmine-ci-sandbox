@@ -53,3 +53,12 @@
     >>rake jasmine     # Run specs via server
     >>rake jasmine:ci  # Run continuous integration tests
 
+## Reference ##
+
++ Jasmine: BDD for your JavaScript:  [http://pivotal.github.com/jasmine/](http://pivotal.github.com/jasmine/)
++ velesin/jasmine-jquery - GitHub: [https://github.com/velesin/jasmine-jquery](https://github.com/velesin/jasmine-jquery}
++ #261 Testing JavaScript with Jasmine - RailsCasts: [http://railscasts.com/episodes/261-testing-javascript-with-jasmine?language=ja&view=asciicast](http://railscasts.com/episodes/261-testing-javascript-with-jasmine?language=ja&view=asciicast)
++ Sinon.JS - Versatile standalone test spies, stubs and mocks for JavaScript: [http://sinonjs.org/](http://sinonjs.org/)
++ Sinon.JS - Simplifying JavaScript testing: [http://cjohansen.no/talks/2011/xp-meetup/#1](http://cjohansen.no/talks/2011/xp-meetup/#1)
++ froots/jasmine-sinon - GitHub: [https://github.com/froots/jasmine-sinon](https://github.com/froots/jasmine-sinon)
++ Jasmine - Sinon - BrazilJS: [http://www.slideshare.net/sergiorjunior/jasmine-sinon-brasiljs](http://www.slideshare.net/sergiorjunior/jasmine-sinon-brasiljs)
