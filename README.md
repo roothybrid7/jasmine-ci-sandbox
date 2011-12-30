@@ -19,7 +19,6 @@ Javascript Test environment skeleton.
     │   ├── javascripts
     │   │   └── app.js
     │   │   ├── jquery-1.7.1.js
-    │   │   └── knockout-2.0.0.js
     │   └── stylesheets
     └── spec
         └── javascripts
