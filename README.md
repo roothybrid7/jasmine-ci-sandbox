@@ -57,7 +57,7 @@ Javascript Test environment skeleton.
 
 ## Reference ##
 
-+ Jasmine: BDD for your JavaScript:  [http://pivotal.github.com/jasmine/](http://pivotal.github.com/jasmine/)
++ Jasmine: BDD for your JavaScript:  [https://jasmine.github.io/](https://jasmine.github.io/)
 + velesin/jasmine-jquery - GitHub: [https://github.com/velesin/jasmine-jquery](https://github.com/velesin/jasmine-jquery}
 + #261 Testing JavaScript with Jasmine - RailsCasts: [http://railscasts.com/episodes/261-testing-javascript-with-jasmine?language=ja&view=asciicast](http://railscasts.com/episodes/261-testing-javascript-with-jasmine?language=ja&view=asciicast)
 + Sinon.JS - Versatile standalone test spies, stubs and mocks for JavaScript: [http://sinonjs.org/](http://sinonjs.org/)
